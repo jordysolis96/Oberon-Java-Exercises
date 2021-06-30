@@ -10,6 +10,7 @@ public class MethodsExercise {
         System.out.println(division(10, 2));
         System.out.println(modulus(6, 3));
         Calculator();
+        System.out.println(getInteger(1, 10));
     }
 
     public static int addition(int one, int two){

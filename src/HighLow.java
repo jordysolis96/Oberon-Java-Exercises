@@ -27,5 +27,8 @@ public class HighLow {
         } else {
             System.out.println("GOOD GUESS");
         }
+
+
+        
     }
 }
